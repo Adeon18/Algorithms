@@ -1,4 +1,6 @@
-
+"""
+This is an algorithm to find the Peak of an unimodal(1, 2,3, 4, 5, 6, 3, 2, 1) array peak.
+"""
 
 
 def find_peak(arr, start, end):

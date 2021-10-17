@@ -99,7 +99,7 @@ def non_recursive_quick_sort(arr, start, end):
         print("Pivot Idx =", pivot_pos)
         print(stack)
         # If there is something to the left of the pivot, we push it on to our stack
-        # It will be accessed later and we eill evetually hit the point where
+        # It will be accessed later and we eill evetually hit the point where the kength between elements is equal to 1
         # Left part of Recursion
         if pivot_pos - 1 > start:
             stack_i += 1
