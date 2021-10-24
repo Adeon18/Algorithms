@@ -1,3 +1,7 @@
+"""
+A binary search tree implementation.
+TODO: Successor and Delete functions.
+"""
 
 
 class BSTNode:
